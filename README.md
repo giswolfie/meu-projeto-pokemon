@@ -1,11 +1,9 @@
-**Desenvolvimento de um site com integração de API para o desafio da Empresa Junior Seed a Bit Tecnologia.
-![Tech](https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Tailwind-blue)
+## **Desenvolvimento de site com integração de API.
 
 
+**PokéPédia** é uma enciclopédia interativa que consome dados da [PokéAPI](https://pokeapi.co/). O objetivo do projeto foi criar uma aplicação performática, responsiva e bem estruturada, utilizando **React/Next.js** e boas práticas de desenvolvimento web.
 
-**PokéPédia** é uma enciclopédia interativa que consome dados da [PokéAPI](https://pokeapi.co/). O objetivo do projeto foi criar uma aplicação performática, responsiva e bem estruturada, demonstrando domínio sobre o ecossistema **React/Next.js** e boas práticas de desenvolvimento web.
-
-A aplicação conta com uma **Landing Page** convidativa, uma **Vitrine** paginada de Pokémons e uma página de **Detalhes Dinâmica** com estatísticas detalhadas.
+A aplicação conta com uma **Landing Page** convidativa e responsiva, uma **Vitrine** paginada de Pokémons com a integração da API e uma página de **Detalhes Dinâmica** com estatísticas detalhadas do respectivo Pokemon.
 
 ## 🚀 Linguagens Utilizadas
 
@@ -14,7 +12,7 @@ A aplicação conta com uma **Landing Page** convidativa, uma **Vitrine** pagina
 * **Estilização:** [Tailwind CSS](https://tailwindcss.com/) (Estilização);
 * **Integração:** Fetch API nativa;
 
-* **Funcionalidades** 
+## **Funcionalidades** 
 
 - Landing Page
 * Apresentação do projeto com hierarquia visual clara;
